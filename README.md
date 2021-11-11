@@ -8,19 +8,19 @@ Controls:
 
 ################################################
 
-#Click: Add and remove cells.                   #
+Click: Add and remove cells.                   
 
-#                                               #
+                                               
 
-#ENTER (the one by the numpad): Start and stop. #
+ENTER (the one by the numpad): Start and stop. 
 
-#                                               #
+                                               
 
-#END: Resets the grid.                          #
+END: Resets the grid.                          
 
-#                                               #
+                                               
 
-#r: Randomize grid.                             #
+r: Randomize grid.                             
 
 ################################################
 
