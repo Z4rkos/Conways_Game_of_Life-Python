@@ -12,7 +12,7 @@ Click: Add and remove cells.
 
                                                
 
-ENTER (the one by the numpad): Start and stop. 
+ENTER: Start and stop. 
 
                                                
 
