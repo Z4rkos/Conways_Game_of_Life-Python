@@ -30,3 +30,5 @@ r: Randomize grid.
 TO DO:
 
 Make the grid infinite.
+
+Make the neighbor checking only check active areas.
