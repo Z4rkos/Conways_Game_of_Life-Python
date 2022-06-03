@@ -99,6 +99,7 @@ def main():
                 if event.key == pygame.K_END:
                     grid = [[0 for x in range(rows)] for y in range(collumns)]
                     game = False
+                    pygame.display.set_caption("The Game Of Life (Paused)")
 
                 # r to randomize the grid.
                 elif event.key == pygame.K_r:
